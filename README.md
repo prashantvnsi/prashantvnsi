@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Prashant 👋
 
-<!--
-**prashantvnsi/prashantvnsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌍 Based in **Berlin, Germany**
+- 👨‍💻 Software Developer & Master's student in **Artificial Intelligence**
+- 🎓 Passionate about AI, Machine Learning, and Data Science
+- 🎶 Love music, cricket, tennis, and traveling 🗺️
+- Learning Neural Networks and LLMs
+- Looking for innovative project in Deep Learning
 
-Here are some ideas to get you started:
+## Current Focus
+- 🚀 Transitioning to an **AI Engineer** role
+- 📘 Working on ML projects like **Water Quality Prediction**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [GitHub](https://www.linkedin.com/in/prashant-chand-tiwari-9a132130/)
